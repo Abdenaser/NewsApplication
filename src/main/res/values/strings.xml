@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">News</string>
+    <string name="keys_api">05edaf800a4045f1aaa91bd1f7b4ddab</string>
 </resources>
